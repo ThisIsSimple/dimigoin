@@ -1,7 +1,8 @@
 repo_name: ThisIsSimple/dimigoin
 report_id: 85fef9eedefa4fd07a2ad8f426182a2b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:29:13+00:00'
+timestamp: '2024-01-05T08:29:54+00:00'
 requested_by: ThisIsSimple
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ThisIsSimple/dimigoin
   detection_source: Repo Metadata
